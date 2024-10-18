@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>For the love of lemons</title>
+    <style> 
+      
+      h1 {
+        color:rgb(200,200,0);
+      }
+      
+      body {
+        position:absolute;
+        width:100%;
+        height:100%;
+        background-color:rgb(100,100,100);
+      }
+      
+      #bouncyLem {
+        
+      }
+      
+      @keyframes bounce {
+        0% {transform: scale(1, 1);}
+        20% {transform: scale(0.8, 1.2);}
+        35% {transform: scale(1.1, 0.9);}
+        50% {transform: scale(0.95, 1.05);}
+        100% {transform: scale(1, 1);}
+      }
+    </style>
+    <link rel="stylesheet" href="style.css">
+ <meta charset="utf-8">
+  </head>
+  <body>
+  <!-- the big code blob above here was for the squishy lemon-->
+    <a href="https://studio.code.org/projects/weblab/XJYx0aKKQ8vbQ-iAgWZ2movR8qkGFESCROkVJ7tBGx4"> <img src="IMG_1550.png" height="500" alt="A beautiful lemon pile"></a>
+  
+  <h1 id="start">All about beautiful lemons!</h1>
+    <a href='http://internetometer.com/give/50603'>Click this to give me an internet!</a>
+  <p>Lemons are the most incredible thing to happen to the world, they are sour, versatile, and delicious. And, when the time comes, many of us will accend to lemon heaven, and get to relive a new life.</p>
+  
+  <h2>Info</h2>
+    <img src="IMG_1560.png" width="64" height="64" alt="Bouncy lemon" id="bouncyLem" onclick="this.style.animation = 'bounce 1s';" onanimationend="this.style.animation = '';">
+  <p>The lemon (Citrus × limon) is a species of small evergreen tree in the flowering plant family Rutaceae, native to Asia, primarily Northeast India (Assam), Northern Myanmar, and China.
+<br>
+  <br>The tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses. The pulp and rind are also used in cooking and baking. The juice of the lemon is about 5–6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of lemon juice, derived from the citric acid, makes it a key ingredient in drinks and foods such as lemonade and lemon meringue pie.</p>
+    <h3>Steps to get to lemon heaven</h3>
+    <ol>
+      <li> Never question the greatness of lemons</li>
+     <br> 
+      <li> closely associate with lemons throughout your entire life:
+        <ul>
+          <li>talk about lemons</li>
+          <li>eat lemons</li>
+        
+        </ul>
+     <br> 
+      </li><li>Love thy lemon</li>
+      
+    </ol>  
+<h4>Read more!</h4>
+    <a href="https://en.wikipedia.org/wiki/Lemon">More lemon info</a>
+ <br>
+    <br>
+    <a href="https://glabsworth.github.io/">A great website</a>
+<br>
+    <br>
+  
+    <a href="#start"> Back to the top!</a>
+    <br>
+    <!--god I hate watermarks so much--> 
+    <p>here because of the stupid watermark, in fact here is why this watermark sucks</p>
+    <table>
+      <tbody>
+        <thead>
+          <tr>
+            <td>God I HATE IT</td>
+            <td>IT BLOCKED MY LINK</td>
+            <td>AAAAAAAAAAAH</td>
+          </tr>
+        </thead>
+        <thead>
+          <tr>
+            <td>It just made me mad</td>
+            <td>I really hate it</td>
+            <td>hmmm</td>
+          </tr>
+        </thead>
+        <thead>
+        <tr>
+          <td>It is so annoying</td>
+          <td>just put a pop up that you can close</td>
+          <td>most people visiting websites dont want to make websites anyways >:(</td> 
+        </tr>
+        </thead>
+        <thead>
+         <tr>
+           <td>oh whatever</td> 
+           <td>Play cookie pop</td>
+           <td>;-;</td>
+           <td>made with HTML and CSS!</td> 
+          </tr>
+        </thead>
+      </tbody>
+    </table>
+  </body>
+</html>
